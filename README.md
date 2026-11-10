@@ -1,6 +1,5 @@
 # 🔍 Findora
 
-**Portal Barang Hilang dan Temuan**
 
 Tugas Besar Desain Web B · Kelompok **Pemuda Pancasila**
 Program Studi Teknik Informatika · Fakultas Teknik · Universitas Pancasila · 2026/2027
